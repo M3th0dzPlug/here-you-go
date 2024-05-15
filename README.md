@@ -3,7 +3,8 @@
 <hr/>
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(RunePro)</h3>
 <div>"RunePro Points are the blood of our ecosystem." - Get your 500 points for Minimum token allocation. Once allocation spots are full Points will go away.</div>
-<img align="right" width="300px" height="150px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/2f5d9b30-7440-44d4-9978-32b65918ffdb">
+<img align="right" width="300px" height="150px" src="https://github.com/M3th0dzPlug/here-you-go/assets/5162341/e01dd031-2145-4199-aeb3-965b5693f245">
+
 <div>And pEng mint on main net will start.</div>
 <div>- Built Back-end for Rune-mining and ethcing.</div>
 
@@ -15,7 +16,8 @@
 <hr/>
 <h3><u><strong><i>BTC ordinals</i></strong></u> &nbsp;(Bitcoin Burial)</h3>
 <div>Bitcoin Burials is a 10k Ordinals collection of lovingly crafted headstones in a pixel art style each engraved with the BTC logo and a date tied to an Obituary predicting Bitcoin's death as selected from an historic archive.</div>
-<img align="right" width="300px" height="150px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/b64f50c4-32f7-45ed-83e7-428661fca89d">
+<img align="right" width="300px" height="150px" src="https://github.com/M3th0dzPlug/here-you-go/assets/5162341/ea66c1c1-22e0-41a3-9d68-4ac0a826199e">
+
 <div>Buy a Bitcoin Burial on Magic eden, OKX, Gamma and Ordinal.market</div>
 <div>- Built Back-end for Rune-mining, selling and transferring.</div>
 
@@ -24,25 +26,12 @@
   - backend repo: <a href="https://github.com/M3th0dzPlug/bitcoinburials-app">Burial-Backend</a>
   - frontend repo: <a href="https://github.com/M3th0dzPlug/bitcoinburials-FE">Burial-Frontend</a>
 
-<hr/>
-<h3><u><strong><i>BTC/ETH Swap</i></strong></u> &nbsp;(Runex)</h3>
-<div>Ensuring seamless exchange between Bitcoin and Ethereum, enhancing liquidity and efficiency in decentralized finance.</div>
-<div>Empowering users in the ever-evolving crypto landscape.</div>
-<img align="right" width="300px" height="150px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/d4b2c3ea-27b2-4a41-be4c-e13bbcce0456">
-<div>- Built Back-end for BTC/ETH swap.</div>
-<div>- Built Front-end using Next.js and Redux</div>
-
-- Live: <a href="https://runex.tech">Runex</a>
-- Github repos:
-  - backend repo: <a href="https://github.com/M3th0dzPlug/runex-app">Runex-Backend</a>
-  - frontend repo: <a href="https://github.com/M3th0dzPlug/runex-FE">Runex-Frontend</a>
-
 <h3><u><strong><i>Yieldz Lending</i></strong></u> &nbsp;(Polygon)</h3>
 
 <hr />
 
 This is a Defi Lending project on Etheruem network. Users can provide a sustainable system and bringing predictabe and long-term yield mechanisms for Defi investors.
-<img align="right" width="300px" src="https://github.com/M3th0dzPlug/About-Me/assets/69390291/b54e4ba5-57d5-4971-a450-2e12c3e96450">
+<img align="right" width="300px" src="https://github.com/M3th0dzPlug/here-you-go/assets/5162341/7be0a178-b617-4e3f-88b2-99506361b6aa">
 
 Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors. YIELDZ is also a multifaceted Ecosystem, innovative Stablecoin, and Core Farm.
 We concentrate on investors who want to invest their assets safely and who are searching for a reliable source of income. We provided a multi-layered method to increase the predictability of Defi space
