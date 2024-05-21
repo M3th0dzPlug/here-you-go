@@ -75,7 +75,7 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
 
 This is a game project deployed on blockchain networks. Users can play games use crypto
 
-<img align="right" width="300px" src="https://github.com/M3th0dzPlug/About-Me/assets/69390291/5a325bfe-5117-4ae9-b746-cc6db8b866d1">
+<img align="right" width="300px" src="https://github.com/M3th0dzPlug/here-you-go/assets/5162341/9baf3125-3845-4a1f-9536-2ada6bdc3660">
 
 Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
 
@@ -90,7 +90,7 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
 
 This is a Defi project on Solana network. Trade, earn, and grow with HydraSwap’s intelligent cross-chain DEX featuring concentrated liquidity on the high-performance Solana blockchain.
 
-<img align="right" width="300px" src="https://github.com/M3th0dzPlug/About-Me/assets/69390291/299216b9-72ec-42c7-ad2c-01a85563187f">
+<img align="right" width="300px" src="https://github.com/M3th0dzPlug/here-you-go/assets/5162341/af8cdb39-46d8-47a4-b43e-51951cf759f4">
 
 HydraSwap is a next-generation cross-chain DEX powered by our exclusive Hydra Market Maker (HMM) smart pricing algorithm. It helps liquidity providers (LPs) enhance their returns up to 4x and improves their impermanent loss profile. HydraSwap integrates smarter pricing with concentrated liquidity to create greater capital efficiency and superior earnings for LPs.HydraSwap’s proprietary features combined with the speed and convenience of Solana, deliver a fast and reliable DEX. By addressing the needs of LPs we aim to create a robust trading venue with deep liquidity for DeFi.
 
